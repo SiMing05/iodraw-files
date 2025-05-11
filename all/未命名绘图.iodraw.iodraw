@@ -64,10 +64,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-52" value="延时2秒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-54" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1120" width="120" height="60" as="geometry" />
+        <mxCell id="z8chdFtUIW2a__otio_B-54" value="清屏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
