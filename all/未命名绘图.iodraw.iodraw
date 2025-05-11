@@ -37,7 +37,7 @@
           <mxGeometry x="200" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-14" value="关闭所有LED" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
