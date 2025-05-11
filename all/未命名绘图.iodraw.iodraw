@@ -28,10 +28,8 @@
         <mxCell id="z8chdFtUIW2a__otio_B-4" value="初始化LCD段码显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="540" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="z8chdFtUIW2a__otio_B-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-5" target="z8chdFtUIW2a__otio_B-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-5" value="进入主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
@@ -162,6 +160,9 @@
               <mxPoint x="420" y="1020" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-50" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
