@@ -30,8 +30,14 @@
         <mxCell id="z8chdFtUIW2a__otio_B-7" value="检测S4(P4.3)按下?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-11" target="z8chdFtUIW2a__otio_B-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-11" value="防抖延时" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-14" value="关闭所有LED" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
