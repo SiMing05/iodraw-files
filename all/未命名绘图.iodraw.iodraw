@@ -57,16 +57,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-11" value="防抖延时" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-14" target="z8chdFtUIW2a__otio_B-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-14" value="关闭所有LED&lt;div&gt;pressCount = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-16" value="等待按键释放&lt;div&gt;防抖延时&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-18" target="z8chdFtUIW2a__otio_B-30">
           <mxGeometry relative="1" as="geometry" />
