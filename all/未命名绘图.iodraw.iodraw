@@ -27,6 +27,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-7" target="z8chdFtUIW2a__otio_B-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-7" value="检测S4(P4.3)按下?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -43,7 +46,10 @@
           <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-16" value="等待按键释放&lt;div&gt;防抖延时&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-18" value="检测S4(P4.3)按下?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
