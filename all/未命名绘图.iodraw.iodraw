@@ -42,7 +42,7 @@
         <mxCell id="z8chdFtUIW2a__otio_B-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-11" target="z8chdFtUIW2a__otio_B-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-11" value="延时两秒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8chdFtUIW2a__otio_B-11" value="延时2秒" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-14" target="z8chdFtUIW2a__otio_B-16">
@@ -54,66 +54,10 @@
         <mxCell id="z8chdFtUIW2a__otio_B-16" value="等待按键释放&lt;div&gt;防抖延时&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="z8chdFtUIW2a__otio_B-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="600" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z8chdFtUIW2a__otio_B-31">
-          <mxGeometry x="-0.05" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-30" target="z8chdFtUIW2a__otio_B-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-30" value="防抖延时" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-33" target="z8chdFtUIW2a__otio_B-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z8chdFtUIW2a__otio_B-36">
-          <mxGeometry x="-0.25" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-33" target="z8chdFtUIW2a__otio_B-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-41" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z8chdFtUIW2a__otio_B-38">
-          <mxGeometry x="-0.3765" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-33" value="pressCount &amp;lt; 5？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-35" target="z8chdFtUIW2a__otio_B-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-35" value="点亮pressCount对应的LED&lt;div&gt;pressCount++&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-37" value="&lt;div&gt;关闭所有LED&lt;/div&gt;&lt;div&gt;pressCount = 0&lt;/div&gt;&lt;div&gt;点亮LED1&lt;/div&gt;&lt;div&gt;pressCount++&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-42" value="等待按键释放&lt;div&gt;防抖延时&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="940" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="z8chdFtUIW2a__otio_B-37">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="920" as="sourcePoint" />
-            <mxPoint x="440" y="740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="740" y="920" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="z8chdFtUIW2a__otio_B-42">
+        <mxCell id="z8chdFtUIW2a__otio_B-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="1020" as="sourcePoint" />
-            <mxPoint x="440" y="840" as="targetPoint" />
+            <mxPoint x="660" y="1000" as="targetPoint" />
             <Array as="points">
               <mxPoint x="660" y="1020" />
             </Array>
