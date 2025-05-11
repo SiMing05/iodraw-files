@@ -69,11 +69,12 @@
         <mxCell id="z8chdFtUIW2a__otio_B-54" value="清屏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-56" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-54">
+        <mxCell id="z8chdFtUIW2a__otio_B-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="810" as="sourcePoint" />
             <mxPoint x="420" y="520" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="420" y="1120" />
               <mxPoint x="520" y="1120" />
               <mxPoint x="520" y="520" />
             </Array>
