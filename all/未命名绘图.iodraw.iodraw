@@ -16,6 +16,9 @@
         <mxCell id="z8chdFtUIW2a__otio_B-4" value="初始化按键GPIO&lt;div&gt;设置输入&lt;/div&gt;&lt;div&gt;使能上拉电阻&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-5" target="z8chdFtUIW2a__otio_B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-5" value="初始化按键计数pressCount = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -52,11 +55,6 @@
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-16" value="等待按键释放&lt;div&gt;防抖延时&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="570" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-18" value="检测S3(P4.4)按下?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="540" width="120" height="60" as="geometry" />
