@@ -65,7 +65,7 @@
         <mxCell id="z8chdFtUIW2a__otio_B-14" value="关闭所有LED&lt;div&gt;pressCount = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;shape=link;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-16">
+        <mxCell id="z8chdFtUIW2a__otio_B-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;startArrow=none;startFill=0;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="520" as="targetPoint" />
             <Array as="points">
