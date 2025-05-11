@@ -119,11 +119,22 @@
         <mxCell id="z8chdFtUIW2a__otio_B-33" value="pressCount &amp;lt; 5？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-35" target="z8chdFtUIW2a__otio_B-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-35" value="点亮pressCount对应的LED&lt;div&gt;pressCount++&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-37" value="&lt;div&gt;关闭所有LED&lt;/div&gt;&lt;div&gt;pressCount = 0&lt;/div&gt;&lt;div&gt;点亮LED1&lt;/div&gt;&lt;div&gt;pressCount++&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8chdFtUIW2a__otio_B-42" value="等待按键释放&lt;div&gt;防抖延时&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
