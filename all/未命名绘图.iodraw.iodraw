@@ -67,7 +67,11 @@
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="1060" as="targetPoint" />
+            <mxPoint x="310" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="1020" />
+              <mxPoint x="311" y="1020" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-16" value="等待按键释放&lt;div&gt;防抖延时&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
