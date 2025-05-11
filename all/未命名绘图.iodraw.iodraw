@@ -25,7 +25,7 @@
         <mxCell id="z8chdFtUIW2a__otio_B-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-4" target="z8chdFtUIW2a__otio_B-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z8chdFtUIW2a__otio_B-4" value="初始化按键GPIO&lt;div&gt;设置输入&lt;/div&gt;&lt;div&gt;使能上拉电阻&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z8chdFtUIW2a__otio_B-4" value="初始化LCD段码显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8chdFtUIW2a__otio_B-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8chdFtUIW2a__otio_B-5" target="z8chdFtUIW2a__otio_B-7">
